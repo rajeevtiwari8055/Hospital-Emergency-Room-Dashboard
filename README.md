@@ -173,10 +173,10 @@ This project is open-source for educational and portfolio purposes. Please credi
 ## 🖼️ Dashboard Snapshots
 
 ### 🔹 Version 1 – Final Hospital Emergency Room Dashboard (Refined)
-![Final Dashboard](./Final%20Hospital%20Emergency%20Room%20Dashboard.png)
+![Final Dashboard](./Final%20Hospital%20ER%20Dashboard.png)
 
 
 ### 🔹 Version 2 – Initial Hospital ER Image
-![Hospital Dashboard](./Hospital.png)
+![Hospital Dashboard](./Hospital%20Overview.png)
 
 ---

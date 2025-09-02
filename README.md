@@ -180,7 +180,7 @@ This project lays a strong foundation but also opens doors for **further innovat
 
 ---
 
-## <span id="dataset-used">🖼️ Dashboard Snapshots</span>  
+## <span id="project-visual">🖼️ Dashboard Snapshots</span>  
 
 ### 🔹 Version 1 – Final Hospital Emergency Room Dashboard (Refined)
 ![Final Dashboard](./Final%20Hospital%20ER%20Dashboard.png)

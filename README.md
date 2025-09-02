@@ -1,16 +1,28 @@
 # 🏥 Hospital Emergency Room Dashboard – MIS Project
 
----
-
-📊 **My first Excel MIS Dashboard project analyzing Hospital ER performance**  
-
-
-Built using Excel tools like Pivot Tables, Sparklines, Conditional Formatting, and Charts to track patient count, wait times, referrals, and more.  
-A hands-on project completed during my data analytics learning journey.
+Built using Excel tools like Pivot Tables, Sparklines, Conditional Formatting, and Charts to track patient count, wait times, referrals, and more. A hands-on project completed during my data analytics learning journey.
 
 ---
 
-## 📌 Project Overview
+## 📑 Table of Contents
+
+- <a href="#project-overview">📌 Project Overview</a>  
+- <a href="#project-context">🏢 Project Context</a>  
+- <a href="#project-objectives">🎯 Project Objectives</a>  
+- <a href="#key-features">🧩 Key Dashboard Features</a>  
+- <a href="#dataset-used">📂 Dataset Used</a>  
+- <a href="#tools-techniques">🛠 Tools & Excel Techniques Used</a>  
+- <a href="#project-workflow">🔄 Project Workflow</a>  
+- <a href="#project-learnings">📈 Project Learnings</a>  
+- <a href="#impact-insights">💡 Business Impact & Insights</a>  
+- <a href="#future-scope">🚀 Future Scope</a>  
+- <a href="#project-used">📦 How to Use This Project</a> 
+- <a href="#contact">📬 Connect with Me</a>  
+- <a href="#project-visual">🖼️ Dashboard Snapshots</a>  
+
+---
+
+## <span id="project-overview">📌 Project Overview</span>  
 
 This project is my **first end-to-end Excel MIS Dashboard**, built during the foundational phase of my journey into MIS and Data Analytics.
 
@@ -25,7 +37,7 @@ It enables healthcare administrators to:
 
 ---
 
-## 🏢 Project Context
+## <span id="project-context">🏢 Project Context</span>  
 
 Hospitals often face challenges in **managing emergency room (ER) operations efficiently**.  
 Without a centralized reporting system, decision-makers struggle to identify peak load periods, track wait times, and improve patient satisfaction.
@@ -38,7 +50,7 @@ This project addresses those challenges by:
 
 ---
 
-## 🎯 Project Objective
+## <span id="project-objectives">🎯 Project Objectives</span>  
 
 The core aim of this dashboard is to **empower hospital stakeholders** with real-time visibility into Emergency Room performance.  
 
@@ -52,7 +64,7 @@ By presenting critical metrics in a visually engaging format, this dashboard ena
 
 ---
 
-## 🧩 Key Dashboard Features
+## <span id="key-features">🧩 Key Dashboard Features</span>  
 
 The dashboard offers a consolidated view of essential metrics through a combination of **charts, conditional formatting, and dynamic Excel features**:
 
@@ -67,7 +79,7 @@ The dashboard offers a consolidated view of essential metrics through a combinat
 
 ---
 
-## 📊 Dataset Details
+## <span id="dataset-used">📂 Dataset Used</span>  
 
 - **Source:** Self-created dataset for learning purposes  
 - **Records:** Contains patient-level ER visit information for a defined time period  
@@ -84,7 +96,7 @@ The dashboard offers a consolidated view of essential metrics through a combinat
 
 ---
 
-## 🛠 Tools & Excel Techniques Used
+## <span id="tools-techniques">🛠 Tools & Excel Techniques Used</span>  
 
 This dashboard was built **entirely in Microsoft Excel**, utilizing:
 
@@ -101,7 +113,7 @@ This dashboard was built **entirely in Microsoft Excel**, utilizing:
 
 ---
 
-## 🔄 Project Workflow
+## <span id="project-workflow">🔄 Project Workflow</span>  
 
 1. **Requirement Understanding** – Identify KPIs relevant to hospital ER performance  
 2. **Data Preparation** – Clean, format, and organize the dataset  
@@ -112,7 +124,7 @@ This dashboard was built **entirely in Microsoft Excel**, utilizing:
 
 ---
 
-## 📈 Project Learnings
+## <span id="project-learnings">📈 Project Learnings</span>  
 
 This dashboard gave me **real-world exposure** to how Excel functions as a **Business Intelligence (BI)** tool.  
 It also helped me understand the **end-to-end workflow** of data analysis and reporting in a critical industry like healthcare.
@@ -126,7 +138,7 @@ It also helped me understand the **end-to-end workflow** of data analysis and re
 
 ---
 
-## 💡 Business Impact & Insights
+## <span id="impact-insights">💡 Business Impact & Insights</span>  
 
 From the dashboard, hospital administrators can:
 
@@ -137,7 +149,7 @@ From the dashboard, hospital administrators can:
 
 ---
 
-## 🚀 Future Scope
+## <span id="future-scope">🚀 Future Scope</span>  
 
 This project lays a strong foundation but also opens doors for **further innovation**:
 
@@ -148,7 +160,7 @@ This project lays a strong foundation but also opens doors for **further innovat
   
 ---
 
-## 📦 How to Use This Project
+## <span id="project-used">📦 How to Use This Project</span>  
 
 1. **Download/Clone Repository**  
 2. Open the `.xlsx` file in Microsoft Excel  
@@ -157,20 +169,18 @@ This project lays a strong foundation but also opens doors for **further innovat
 
 ---
 
-## 📜 License
+## <span id="contact">📬 Connect with Me</span>  
 
-This project is open-source for educational and portfolio purposes. Please credit the author if reusing.
+- 📧 **Email**: [rajeevtiwari8055@gmail.com](mailto:rajeevtiwari8055@gmail.com)  
+- 💻 **GitHub**: [github.com/rajeevgit8055hub](https://github.com/rajeevgit8055hub)  
+- 🔗 **LinkedIn**: [linkedin.com/in/rajeev-tiwari123](https://www.linkedin.com/in/rajeev-tiwari123)  
+- 🌐 **Website**: [rajeevgit8055hub.github.io/rajeevtiwari.github.io](https://rajeevgit8055hub.github.io/rajeevtiwari.github.io/)  
 
----
-
-## 🎞️ Demo Video Link
-
-🎥 Watch the full video demonstration of this dashboard on LinkedIn:  
-👉 [Click to Watch](https://lnkd.in/eWDx8R-3)
+🤝 *Thanks for visiting my profile!*  
 
 ---
 
-## 🖼️ Dashboard Snapshots
+## <span id="dataset-used">🖼️ Dashboard Snapshots</span>  
 
 ### 🔹 Version 1 – Final Hospital Emergency Room Dashboard (Refined)
 ![Final Dashboard](./Final%20Hospital%20ER%20Dashboard.png)

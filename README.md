@@ -210,3 +210,6 @@ This project lays a strong foundation but also opens doors for **further innovat
 ![Hospital Dashboard](./Hospital%20Overview.png)
 
 ---
+
+<!-- https://exam.skillcourse.in/register/microsoft-excel-with-a-i-masterclass-self-learning
+https://exam.skillcourse.in/register/power-bi-marathon-final-exam -->
